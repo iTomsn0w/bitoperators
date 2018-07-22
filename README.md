@@ -1,3 +1,3 @@
 # bitoperators
 
-awwdd
+I made this program for practicing how ADDing... works ;) 
